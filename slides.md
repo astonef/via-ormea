@@ -8,17 +8,23 @@ theme: default
 section {
   background-color: #111;
   color: #eee;
-  font-family: 'Courier New', monospace;
+  
 }
-h1, h2 {
+h1, h2, p {
   color: #fff;
+  text-align: center;
 }
+
+.img-bottom {
+  margin-bottom: 100px;
+  display: block;
+  max-width: 100%;
+}
+
 </style>
 
 # Canva
 
 Test slide
 
-# Test Slide 2
-
-
+---

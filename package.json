@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx marp slides.md -o index.html --html --allow-local-files --no-stdin",
+    "build": "npx marp slides.md --html --theme-set ./dracula.css --theme dracula --allow-local-files --no-stdin -o index.html",
     "start": "npm run build && concurrently \"npm:watch\" \"npm:dev\"",
     "dev": "live-server index.html",
     "watch": "chokidar slides.md -c \"npm run build\""

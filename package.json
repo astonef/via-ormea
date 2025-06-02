@@ -1,0 +1,23 @@
+{
+  "name": "25_canva_via_ormea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx marp slides.md --html --allow-local-files",
+    "start": "concurrently \"npm:watch\" \"npm:dev\"",
+    "dev": "live-server slides.html",
+    "watch": "chokidar slides.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "chokidar-cli": "^3.0.0",
+    "concurrently": "^9.1.2"
+  }
+}

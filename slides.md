@@ -1,17 +1,20 @@
 ---
 marp: true
-title: Minimal Slides
-theme: gaia
-colorScheme: dark 
+title: Test Via Ormea
+theme: default
 ---
 
-# Titolo Slide
+<style>
+section {
+  background-color: #111;
+  color: #eee;
+  font-family: 'Courier New', monospace;
+}
+h1, h2 {
+  color: #fff;
+}
+</style>
 
-Hello world
+# Titolo
 
----
-
-## Seconda Slide
-
-- Punto 1  
-- Punto 2
+Test slide

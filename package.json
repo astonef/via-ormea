@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx marp slides.md --html --allow-local-files",
-    "start": "concurrently \"npm:watch\" \"npm:dev\"",
-    "dev": "live-server slides.html",
-    "watch": "chokidar slides.md"
+    "build": "npx marp slides.md -o index.html --html --allow-local-files --no-stdin",
+    "start": "npm run build && concurrently \"npm:watch\" \"npm:dev\"",
+    "dev": "live-server index.html",
+    "watch": "chokidar slides.md -c \"npm run build\""
   },
   "keywords": [],
   "author": "",

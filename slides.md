@@ -65,3 +65,6 @@ IC VIA ORMEA – sede Orbassano
 [Tree view della mappa delle attività](https://astonef.github.io/via-ormea-map/)
 
 ---
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3UweDlkMGw2dHA1OGdkNnc4NG51aXU0OWt5M2tkOGp4dzZiZGsxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ltCVyYq3Bos4ClL4QP/giphy.gif" alt="gif" style="max-width: 70%; border-radius: 1rem; box-shadow: 0 0 20px #000;" />
+

@@ -12,6 +12,19 @@ section {
   padding: 60px;
   text-align: center;
 }
+
+section.has-background {
+  
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  box-shadow: 0 0 20px #000;
+  border-radius: 1rem;
+}
+
 h1 {
   font-size: 3.5em;
   margin-bottom: 0.4em;
@@ -42,5 +55,13 @@ IC VIA ORMEA – sede Orbassano
 🧭 <em>Learn by doing, improve by sharing, grow together</em>
 </footer>
 
+---
+
+<img src="https://cdn.jsdelivr.net/gh/astonef/fstfd-cdn@core/images/20250603_143355.jpg" alt="Senet Board">
+
+
+---
+
+[Tree view della mappa delle attività](https://astonef.github.io/via-ormea-map/)
 
 ---

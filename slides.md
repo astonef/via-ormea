@@ -1,12 +1,46 @@
 ---
 marp: true
 theme: dracula
-title: Test Via Ormeazz
+backgroundImage: url('https://cdn.jsdelivr.net/gh/astonef/fstfd-cdn@core/images/20250603_135816.jpg')
+backgroundSize: cover
 ---
 
+<style>
+section {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 1rem;
+  padding: 60px;
+  text-align: center;
+}
+h1 {
+  font-size: 3.5em;
+  margin-bottom: 0.4em;
+  text-shadow: 2px 2px 8px #ff0066;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
 
-# Canva
+h2 {
+  font-size: 1.6em;
+  margin-bottom: 0.3em;
+}
+footer {
+  margin-top: 2em;
+  font-size: 0.9em;
+  opacity: 0.7;
+  color: #fff;
+}
+</style>
 
-Test slide
+💡 Percorsi formativi transizione digitale  
+# Canva & Kahoot!
+IC VIA ORMEA – sede Orbassano 
+
+
+**Stefano Magni ~ FabLab Roma**
+<footer>
+🧭 <em>Learn by doing, improve by sharing, grow together</em>
+</footer>
+
 
 ---

@@ -50,7 +50,7 @@ footer {
 IC VIA ORMEA – sede Orbassano 
 
 
-**Stefano Magni ~ FabLab Roma**
+**Stefano Magni ~ Fablab Roma**
 <footer>
 🧭 <em>Learn by doing, improve by sharing, grow together</em>
 </footer>
